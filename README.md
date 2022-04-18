@@ -11,4 +11,4 @@ If you want to manipulate databases, it is good for you to know about the Python
 SQLAlchemy is the best way to manipulate relational databases using Python code. 
 And you will need the Psycopg library which is the PostgreSQL database adapter.
 
-      $ python3 -m pip install sql-alchemy psycopg2-binary
+      $ python3 -m pip install sqlalchemy psycopg2-binary
